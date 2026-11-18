@@ -1,6 +1,6 @@
 # Development Mindsets
 
-We all know the adage, “Give a man a fish, and you feed him for a day; teach a man to fish, and you feed him for a lifetime.” To me, we feed developers for a lifetime by teaching and cherishing certain tenets or _mindsets_. By themselves, they aren’t enough, but I view them as the foundation that shapes our work and our careers. They’re not all related to CSS optimization—that would be odd given that we’re dealing with so many different technologies—, but they’re generally useful. Let’s look at the key ones.
+We all know the adage, “Give a man a fish, and you feed him for a day; teach a man to fish, and you feed him for a lifetime.” To me, we feed developers for a lifetime by teaching and cherishing certain tenets or _mindsets_. By themselves, they aren’t enough, but I view them as the foundation that shapes our work and our careers. They’re not all related to CSS optimization—that would be odd given that we’re dealing with so many different technologies—but they’re generally useful. Let’s look at the key ones.
 
 ## Do One Thing Really, Really Well
 
